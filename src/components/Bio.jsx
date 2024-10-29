@@ -1,4 +1,6 @@
+import React from "react";
 import { BIO } from "../constants"
+
 
 const Bio = () => {
   return (

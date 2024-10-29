@@ -1,3 +1,4 @@
+import React from "react";
 import { HERO } from "../constants";
 import { motion } from "framer-motion";
 import mt from "../assets/mt-main.jpg";

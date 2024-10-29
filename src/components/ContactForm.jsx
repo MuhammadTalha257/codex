@@ -1,3 +1,4 @@
+import React from "react";
 import emailjs from "@emailjs/browser";
 import { useState } from "react";
 import { Toaster, toast } from "react-hot-toast";

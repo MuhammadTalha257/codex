@@ -1,3 +1,4 @@
+import React from "react";
 const Services = () => {
     return (
       <section className="pt-20" id="services">
