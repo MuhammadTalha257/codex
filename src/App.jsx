@@ -7,7 +7,7 @@ import Skills from "./components/Skills";
 import Services from "./components/Services";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
-  // all lowercase
+
 
 const App = () =>{
   return (
