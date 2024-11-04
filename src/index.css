@@ -17,13 +17,7 @@ body{
   background: #000;
   color: white;
   background-image: url("../src/assets/bg.png");
-  /* background: linear-gradient(
-    180deg,
-    #ffffff 0%,    
-    #d3d3d3 50%,  
-    #333333 100%   
-  );
-  color: #333333;  */
+
 }
 
 /* Created By : Mohammad Al Hefel */
